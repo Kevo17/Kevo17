@@ -7,34 +7,34 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Software Component Analysis</b>
-  - [SCA using Safety and in GitLab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Resolve issues reprted by SCA tools](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SCA using RetireJS and in GitLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SCA using Safety and in GitLab]()
+  - [Resolve issues reprted by SCA tools]()
+  - [SCA using RetireJS and in GitLab]()
     
 - <b>Static Application Security Testing</b>
-  - [Scanning Secrets with TruffleHog and embedding into GitLab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SAST using Bandit and in GitLab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [False Positive Analysis (FPA)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SAST using Brakeman](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Scanning Secrets with TruffleHog and embedding into GitLab]()
+  - [SAST using Bandit and in GitLab]()
+  - [False Positive Analysis (FPA)]()
+  - [SAST using Brakeman]()
 
 - <b>Dynamic Application Security Testing</b>
-  - [DAST using Nikto and in GitLab](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [DAST using NMAP and in GitLab](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [DAST using SSLyze and in GitLab](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [DAST using ZAP and in GitLab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [DAST using Nikto and in GitLab]()
+  - [DAST using NMAP and in GitLab]()
+  - [DAST using SSLyze and in GitLab]()
+  - [DAST using ZAP and in GitLab]()
     
 - <b>Infrastructure as Code</b>
-  - [Ansible Ad-Hoc Commands](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Hardening using Ansible](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Hardening machinens in CI/CD pipelines](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ansible Ad-Hoc Commands](https://github.com/Kevo17/Ansible-Ad-Hoc-Commands.git)
+  - [Hardening using Ansible](https://github.com/Kevo17/Hardening-using-Ansible.git)
+  - [Hardening machinens in CI/CD pipelines](https://github.com/Kevo17/Hardening-machines-in-CI-CD-pipelines.git)
     
 - <b>Compliance as Code</b>
-  - [CaC using Inspec](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Creating custom Inspec Profile](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [CaC using Inspec]()
+  - [Creating custom Inspec Profile]()
 
 - <b>Vulnerabilty Management</b>
-  - [Vulnerability Management with DefectDojo](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Automated Results Upload in GitLab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Vulnerability Management with DefectDojo]()
+  - [Automated Results Upload in GitLab](https://github.com/Kevo17/Automated-Results-Upload-in-GitLab.git)
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
