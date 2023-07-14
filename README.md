@@ -29,11 +29,11 @@
   - [Hardening machinens in CI/CD pipelines](https://github.com/Kevo17/Hardening-machines-in-CI-CD-pipelines.git)
     
 - <b>Compliance as Code</b>
-  - [CaC using Inspec]()
-  - [Creating custom Inspec Profile]()
+  - [CaC using Inspec](https://github.com/Kevo17/CaC-using-Inspec.git)
+  - [Creating custom Inspec Profile](https://github.com/Kevo17/Creating-custom-Inspec-Profile.git)
 
 - <b>Vulnerabilty Management</b>
-  - [Vulnerability Management with DefectDojo]()
+  - [Vulnerability Management with DefectDojo](https://github.com/Kevo17/Vulnerability-Management-with-DefectDojo.git)
   - [Automated Results Upload in GitLab](https://github.com/Kevo17/Automated-Results-Upload-in-GitLab.git)
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
