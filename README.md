@@ -15,7 +15,7 @@
   - [Scanning Secrets with TruffleHog and embedding into GitLab](https://github.com/Kevo17/Scanning-Secrets-with-TruffleHog-and-embedding-into-GitLab/blob/main/README.md)
   - [SAST using Bandit and in GitLab](https://github.com/Kevo17/SAST-using-Bandit-and-in-GitLab/blob/main/README.md)
   - [False Positive Analysis (FPA)](https://github.com/Kevo17/False-Positive-Analysis-FPA-/blob/main/README.md)
-  - [SAST using Brakeman]()
+  - [SAST using Brakeman](https://github.com/Kevo17/SAST-using-Brakeman/blob/main/README.md)
 
 - <b>Dynamic Application Security Testing</b>
   - [DAST using Nikto and in GitLab]()
