@@ -8,7 +8,7 @@
 
 - <b>Software Component Analysis</b>
   - [SCA using Safety and in GitLab](https://github.com/Kevo17/SCA-using-Safety-and-in-GitLab)
-  - [Resolve issues reprted by SCA tools]()
+  - [Resolve issues reprted by SCA tools](https://github.com/Kevo17/Resolve-issues-reported-by-SCA-tools/blob/main/README.md)
   - [SCA using RetireJS and in GitLab]()
     
 - <b>Static Application Security Testing</b>
