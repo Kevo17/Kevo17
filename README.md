@@ -12,7 +12,7 @@
   - [SCA using RetireJS and in GitLab](https://github.com/Kevo17/SCA-using-RetireJS-and-in-GitLab/edit/main/README.md)
     
 - <b>Static Application Security Testing</b>
-  - [Scanning Secrets with TruffleHog and embedding into GitLab]()
+  - [Scanning Secrets with TruffleHog and embedding into GitLab](https://github.com/Kevo17/Scanning-Secrets-with-TruffleHog-and-embedding-into-GitLab/blob/main/README.md)
   - [SAST using Bandit and in GitLab]()
   - [False Positive Analysis (FPA)]()
   - [SAST using Brakeman]()
