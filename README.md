@@ -13,7 +13,7 @@
     
 - <b>Static Application Security Testing</b>
   - [Scanning Secrets with TruffleHog and embedding into GitLab](https://github.com/Kevo17/Scanning-Secrets-with-TruffleHog-and-embedding-into-GitLab/blob/main/README.md)
-  - [SAST using Bandit and in GitLab]()
+  - [SAST using Bandit and in GitLab](https://github.com/Kevo17/SAST-using-Bandit-and-in-GitLab/blob/main/README.md)
   - [False Positive Analysis (FPA)]()
   - [SAST using Brakeman]()
 
