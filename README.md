@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevonne! <br/><a href="https://github.com/Kevo17">Cybersecurity Professional, Programmer</a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Kevonne! <br/><a href="https://github.com/Kevo17">Cybersecurity Professional, Programmer</a> 
 
 <h2>📜 Certifications:</h2>
 
