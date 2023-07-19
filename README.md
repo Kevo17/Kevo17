@@ -18,8 +18,8 @@
   - [SAST using Brakeman](https://github.com/Kevo17/SAST-using-Brakeman/blob/main/README.md)
 
 - <b>Dynamic Application Security Testing</b>
-  - [DAST using Nikto and in GitLab]()
-  - [DAST using NMAP and in GitLab]()
+  - [DAST using Nikto and in GitLab](https://github.com/Kevo17/DAST-using-Nikto-and-in-GitLab/blob/main/README.md)
+  - [DAST using NMAP and in GitLab](https://github.com/Kevo17/DAST-using-NMAP-and-in-GitLab/blob/main/README.md)
   - [DAST using SSLyze and in GitLab]()
   - [DAST using ZAP and in GitLab]()
     
