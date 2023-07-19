@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevonne! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
   - [AWS Security Specialty](https://www.credly.com/badges/79981d26-9708-4cb5-a3ad-53ab22c09097/public_url)
   - [AWS Developer Associate](https://www.credly.com/badges/c63de203-63db-4d83-9264-06bb1ea1741f/public_url)
