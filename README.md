@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kevonne! <br/><a href="https://github.com/Kevo17">Cybersecurity Professional, Programmer</a> 
-
+     
 <h2>📜 Certifications:</h2>
 
   - [AWS Security Specialty](https://www.credly.com/badges/79981d26-9708-4cb5-a3ad-53ab22c09097/public_url)
@@ -7,7 +7,15 @@
   - [AWS Solution Architect Associate](https://www.credly.com/badges/ae8384ed-e0f9-4939-a40a-65685f579593/public_url)
   - [Comptia Security+](https://www.credly.com/badges/00f26a40-9db4-43b1-bbdf-2fb891d6e2ef/public_url)
   - [Comptia Cloud Essentials](https://www.credly.com/badges/0e581fc5-6931-4e2e-b3a0-b828ffc2d9ff/public_url)
-  
+
+<h2>☁️ Cloud Security Projects:</h2>
+
+- <b>AWS</b>
+  - [Configuring a Basic VPC in AWS]()
+  - [Configuring a Custom Domain with Cognito]()
+  - [Troubleshooting AWS Network Connectivity Security Groups and NACLs]()
+  - [Implementing VPC Peering on AWS]()
+    
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Software Component Analysis</b>
@@ -40,11 +48,9 @@
   - [Vulnerability Management with DefectDojo](https://github.com/Kevo17/Vulnerability-Management-with-DefectDojo.git)
   - [Automated Results Upload in GitLab](https://github.com/Kevo17/Automated-Results-Upload-in-GitLab.git)
 
-<h2>👨‍💻 Cloud Security Projects:</h2>
+<h2>💻 IT Projects:</h2>
 
-<h2>👨‍💻 IT Projects:</h2>
-
-<h2>👨‍💻 Other Projects:</h2>
+<h2>🗄️ Other Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
