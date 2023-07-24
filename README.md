@@ -13,7 +13,7 @@
 - <b>AWS</b>
   - [Configuring a Basic VPC in AWS]()
   - [Configuring a Custom Domain with Cognito](https://github.com/Kevo17/Configuring-a-Custom-Domain-with-Cognito/blob/main/README.md)
-  - [Troubleshooting AWS Network Connectivity Security Groups and NACLs]()
+  - [Troubleshooting AWS Network Connectivity Security Groups and NACLs](https://github.com/Kevo17/Troubleshooting-AWS-Network-Connectivity-Security-Groups-and-NACLs/blob/main/README.md)
   - [Implementing VPC Peering on AWS]()
     
 <h2>👨‍💻 Software Development Projects:</h2>
