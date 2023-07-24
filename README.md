@@ -56,7 +56,7 @@
   - [Vulnerability Management with DefectDojo](https://github.com/Kevo17/Vulnerability-Management-with-DefectDojo.git)
   - [Automated Results Upload in GitLab](https://github.com/Kevo17/Automated-Results-Upload-in-GitLab.git)
 
-<h2>💻 IT Projects:</h2>
+<h2>💻 IT/Cybersecurity Projects:</h2>
 
 <h2>🗄️ Other Projects:</h2>
 
