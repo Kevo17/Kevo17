@@ -21,8 +21,7 @@
 
 - <b>GCP</b>
   - [Using Workload Identity on GKE]()
-  - [Create Firewall Rules on a Google Cloud VPC Network]()
-  - [Securing Microservices in Cloud Run]()
+  - [Create Firewall Rules on a Google Cloud VPC Network](https://github.com/Kevo17/Create-Firewall-Rules-on-a-Google-Cloud-VPC-Network/blob/main/README.md)
     
 <h2>👨‍💻 Software Development Projects:</h2>
 
