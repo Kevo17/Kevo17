@@ -63,14 +63,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="KevonneAllen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="KevonneAllen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="KevonneAllen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KevonneAllen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/username
+[youtube]: https://www.youtube.com/c/username
+[instagram]: https://www.instagram.com/username/
 [linkedin]: https://linkedin.com/in/kevonne-allen-95ab57185/
 
 <!--
@@ -86,4 +84,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<img align="left" alt="KevonneAllen | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[youtube]: https://www.youtube.com/c/username
+
+[<img align="left" alt="KevonneAllen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[twitter]: https://twitter.com/username
 -->
