@@ -17,10 +17,10 @@
   - [Implementing VPC Peering on AWS](https://github.com/Kevo17/Implementing-VPC-Peering-on-AWS/blob/main/README.md)
  
 - <b>Azure</b>
-  - [Attach a Firewall to a Virtual Network in Azure](https://https://github.com/Kevo17/Attach-a-Firewall-to-a-Virtual-Network-in-Azure/blob/main/README.md)
-  - [Configure Service Principal Authentication for Azure Container Registry](https://https://github.com/Kevo17/Configure-Service-Principal-Authentication-for-Azure-Container-Registry/blob/main/README.md)
-  - [Develop a Python App to Access Key Vault Using a Service Principal](https://https://github.com/Kevo17/Develop-a-Python-App-to-Access-Key-Vault-Using-a-Service-Principal/blob/main/README.md)
-  - [Monitor Storage for Security Events with Azure Monitor](https://https://github.com/Kevo17/Monitor-Storage-for-Security-Events-with-Azure-Monitor/blob/main/README.md)
+  - [Attach a Firewall to a Virtual Network in Azure](https://github.com/Kevo17/Attach-a-Firewall-to-a-Virtual-Network-in-Azure/blob/main/README.md)
+  - [Configure Service Principal Authentication for Azure Container Registry](https://github.com/Kevo17/Configure-Service-Principal-Authentication-for-Azure-Container-Registry/blob/main/README.md)
+  - [Develop a Python App to Access Key Vault Using a Service Principal](https://github.com/Kevo17/Develop-a-Python-App-to-Access-Key-Vault-Using-a-Service-Principal/blob/main/README.md)
+  - [Monitor Storage for Security Events with Azure Monitor](https://github.com/Kevo17/Monitor-Storage-for-Security-Events-with-Azure-Monitor/blob/main/README.md)
 
 - <b>GCP</b>
   - [Using Workload Identity on GKE](https://github.com/Kevo17/Using-Workload-Identity-on-GKE/blob/main/README.md)
