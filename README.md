@@ -18,8 +18,6 @@
  
 - <b>Azure</b>
   - [Attach a Firewall to a Virtual Network in Azure]()
-  - [Secure Server Access with Windows Defender Firewall]()
-  - [Fixing Security Misconfigurations with Azure AI]()
   - [Configure Service Principal Authentication for Azure Container Registry]()
   - [Develop a Python App to Access Key Vault Using a Service Principal]()
   - [Monitor Storage for Security Events with Azure Monitor]()
